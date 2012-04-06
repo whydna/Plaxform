@@ -1,0 +1,55 @@
+body
+{
+
+}
+
+#header {
+
+}
+
+#body_container
+{
+
+}
+
+#notification
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	text-align:center;
+	width:99%;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.error_notification
+{
+	background-color: #f2c0c0;
+	border: 1px solid #d22727;
+	color:#000000;
+	padding: 8px;
+}
+
+.success_notification
+{
+	background-color: #d7e9a8;
+	border: 1px solid #75af42;
+	color:#000000;
+	padding: 8px;
+}
+
+.success_notification a
+{
+	color: #2e8326;	
+}
+
+.clear 
+{
+   clear: both;
+}
+
+#footer {
+
+}
