@@ -12,4 +12,3 @@ A lightweight PHP framework, loosely based on the MVC pattern. The framework aim
 	2.6. User and login management
 	2.7. Notification management
 3. Stay out of your way
-
